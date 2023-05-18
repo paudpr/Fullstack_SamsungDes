@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+	<row>
+         <product>cream cheese</product>
+         <selected>false</selected>
+         <num_wanted>1</num_wanted>
+         <units>gramos</units>
+         <stores>
+             <name>Carrefour express</name>
+             <address>C. de Antonio López, 37, 28019</address>
+             <city>Madrid</city>
+             <coordinates>
+                 <lat>40.396494016741606</lat>
+                 <lon>-3.709945827775481</lon>
+             </coordinates>
+             <schedule>
+                 <opens>Lunes - Sábado</opens>
+                 <hours_open>9:00 - 21:30</hours_open>
+                 <closes>Domingo</closes>
+             </schedule>
+             <products>
+                 <fresh_products>
+                     <queso>
+                         <crema_de_queso>
+                             <id>1</id>
+                             <brand>Carrefour</brand>
+                             <description>Queso de untar clásico Classic Carrefour 300g.</description>
+                             <price_euros>1.57</price_euros>
+                             <units>gramos</units>
+                             <ingredients>Queso fresco (leche pasteurizada, nata pasteurizada, fermentos lácticos, coagulante microbiano), sal, espesante: goma guar.</ingredients>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </crema_de_queso>
+                         <crema_de_queso>
+                             <id>2</id>
+                             <brand>Philadelphia</brand>
+                             <description>Crema de queso de untar natural Philadelphia pac de 2 unidades de 250g.</description>
+                             <price_euros>5.15</price_euros>
+                             <units>gramos</units>
+                             <ingredients>LECHE, NATA, sal, estabilizantes (E410, E401, E407), conservador (E202).</ingredients>
+                             <sale>
+                                 <active>true</active>
+                                 <type>5€ dto.</type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </crema_de_queso>
+                         <crema_de_queso>
+                             <id>3</id>
+                             <brand>Arla</brand>
+                             <description>Crema de queso natural Arla 200g.</description>
+                             <price_euros>1.99</price_euros>
+                             <units>grams</units>
+                             <ingredients>Nata, leche desnatada pasteurizada de vaca, sal, cultivos de ácido láctico</ingredients>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </crema_de_queso>
+                         <curado>
+                             <id>1</id>
+                             <brand>Granja de la Luz</brand>
+                             <description>Queso de mezcla curado Granja de la Luz cuña de 500g aprox.</description>
+                             <price_euros>7.52</price_euros>
+                             <units>gramos</units>
+                             <ingredients>Leche pasteurizada vaca (min 80 %), cabra (min 5%) y oveja (min 5%), sal, cuajo, estabilizante: cloruro cálcico, sal, conservador: Lisozima (derivado de huevo) y fermentos lácticos. Corteza no comestible. En corteza: conservadores (E-202. E-235) y colorante (E-172). Fabricado por RGSA:15.000351/P. Envasado por: ES 15.2862/M. Origen de La Leche: España.</ingredients>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </curado>
+                         <curado>
+                             <id>2</id>
+                             <brand>García Baquero</brand>
+                             <description>Queso curado ya cortado García Baquero 250g</description>
+                             <price_euros>5.65</price_euros>
+                             <units>gramos</units>
+                             <ingredients>Elaborado con leche pasteurizada de oveja (32 min.), cabra (30 min.) y vaca (23 min.), fermentos lácticos, sal, cuajo, cloruro de calcio.</ingredients>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </curado>
+                         <curado>
+                             <id>3</id>
+                             <brand>Carrefour</brand>
+                             <description>Queso en lonchas curado Carrefour 200g.</description>
+                             <price_euros>3.69</price_euros>
+                             <units>gramos</units>
+                             <ingredients>Leche pasteurizada de vaca (85%), leche pasteurizada de oveja (15%), sal, cuajo, fermentos lácticos y conservador: E-252.</ingredients>
+                             <sale>
+                                 <active>true</active>
+                                 <type>2 al 50%</type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </curado>
+                         <rallados>
+                             <id>1</id>
+                             <brand>President</brand>
+                             <description>Queso rallado emmental Especial pastas Président 150g.</description>
+                             <price_euros>2.89</price_euros>
+                             <units>gramos</units>
+                             <ingredients>Leche pasteurizada de vaca, sal, fermentos, fécula de patata</ingredients>
+                             <sale>
+                                 <active>true</active>
+                                 <type>2 al 50%</type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </rallados>
+                     </queso>
+                 </fresh_products>
+             </products>
+             <products>
+                 <limpieza_y_hogar>
+                     <productos_para_cocina>
+                         <quitagrasas>
+                             <id>1</id>
+                             <brand>Carrefour</brand>
+                             <description>Quitagrasas cocina Expert Carrefour 750 ml.</description>
+                             <price_euros>1.46</price_euros>
+                             <units>mililitros</units>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </quitagrasas>
+                         <vitroceramica_e_induccion>
+                             <id>1</id>
+                             <brand>Frosch</brand>
+                             <description>Limpiador vitrocerámicas en crema naranja ecológico Frosch 500 ml.</description>
+                             <price_euros>5.19</price_euros>
+                             <units>mililitros</units>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </vitroceramica_e_induccion>
+                         <vitroceramica_e_induccion>
+                             <id>2</id>
+                             <brand>Indu Clen</brand>
+                             <description>Limpiador de inducción Indu Clen 450 ml.</description>
+                             <price_euros>9.15</price_euros>
+                             <units>mililitros</units>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </vitroceramica_e_induccion>
+                     </productos_para_cocina>
+                 </limpieza_y_hogar>
+             </products>
+         </stores>
+         <stores>
+             <name>Alcampo</name>
+             <address>C. de Antonio López, 117, 28026</address>
+             <city>Madrid</city>
+             <coordinates>
+                 <lat>40.38940310612522</lat>
+                 <lon>-3.7005156767010257</lon>
+             </coordinates>
+             <schedule>
+                 <opens>Lunes - Domingo</opens>
+                 <hours_open>9:00 - 21:30</hours_open>
+                 <closes></closes>
+             </schedule>
+             <products>
+                 <fresh_products>
+                     <queso>
+                         <crema_de_queso>
+                             <id>1</id>
+                             <brand>Philadelphia</brand>
+                             <description>Queso de untar formato ahorro PHILADELPHIA 2x250g.</description>
+                             <price_euros>5.14</price_euros>
+                             <units>gramos</units>
+                             <ingredients>LECHE, NATA, sal, estabilizantes (E410, E401, E407), conservador (E202).</ingredients>
+                             <sale>
+                                 <active>true</active>
+                                 <type>acumula saldo 50% de la segunda unidad</type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </crema_de_queso>
+                         <crema_de_queso>
+                             <id>2</id>
+                             <brand>Alcampo</brand>
+                             <description>Queso de untar natural PRODUCTO ALCAMPO 300g.</description>
+                             <price_euros>1.39</price_euros>
+                             <units>gramos</units>
+                             <ingredients>LECHE ENTERA, NATA (LECHE), SÓLIDOS LÁCTEOS (LECHE), SAL, ESTABILIZANTES: E410,E412, E407, CONSERVADOR: E200 Y FERMENTOS LÁCTICOS. ORIGEN DE LA LECHE: ESPAÑA.</ingredients>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </crema_de_queso>
+                         <rayados>
+                             <id>1</id>
+                             <brand>TGT HOCHLAND</brand>
+                             <description>Queso rallado especial pasta TGT HOCHLAND 100g.</description>
+                             <price_euros>1.34</price_euros>
+                             <units>gramos</units>
+                             <ingredients>Queso ,proteínas de la LECHE,almidón modificado ,mantequilla,agua,sales de fundido: polifosfatos y citratos de sodio,corrector de acidez: ácido cítrico ,sal,conservador: sorbato de potasio</ingredients>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </rayados>
+                         <rayados>
+                             <id>3</id>
+                             <brand>Alcampo</brand>
+                             <description>Queso rallado Emmental PRODUCTO ALCAMPO 200 g.</description>
+                             <price_euros>1.95</price_euros>
+                             <units>gramos</units>
+                             <ingredients>Leche pasteurizada de vaca. sal. fermentos. coagulante</ingredients>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </rayados>
+                     </queso>
+                 </fresh_products>
+             </products>
+             <products>
+                 <limpieza_y_hogar>
+                     <productos_para_cocina>
+                         <quitagrasas>
+                             <id>1</id>
+                             <brand>Alcampo</brand>
+                             <description>Limpiador desengrasante PRODUCTO ALCAMPO 50ml.</description>
+                             <price_euros>1.44</price_euros>
+                             <units>mililitros</units>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </quitagrasas>
+                         <vitroceramica_e_induccion>
+                             <id>1</id>
+                             <brand>KH-7</brand>
+                             <description>Limpiador especial para vitrocerámica en crema KH-7 450 ml.</description>
+                             <price_euros>3.35</price_euros>
+                             <units>mililitros</units>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>0</quantity>
+                             <stock>false</stock>
+                         </vitroceramica_e_induccion>
+                         <vitroceramica_e_induccion>
+                             <id>2</id>
+                             <brand>VITRO CLEN</brand>
+                             <description>Limpiiador de vitrocerámica 3 en 1 VITRO CLEN 450 ml.</description>
+                             <price_euros>7.05</price_euros>
+                             <unitss>mililitros</unitss>
+                             <sale>
+                                 <active>false</active>
+                                 <type></type>
+                             </sale>
+                             <quantity>5</quantity>
+                             <stock>true</stock>
+                         </vitroceramica_e_induccion>
+                     </productos_para_cocina>
+                 </limpieza_y_hogar>
+             </products>
+         </stores>
+	</row>
+ </root>

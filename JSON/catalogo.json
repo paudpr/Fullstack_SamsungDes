@@ -1,0 +1,336 @@
+[
+	{
+		"product" : "cream cheese",
+		"selected" : false,
+		"num_wanted" : 1,
+		"units" : "gramos",
+		"stores" : [
+			{
+				"name" : "Carrefour express",
+				"address" : "C. de Antonio López, 37, 28019",
+				"city" : "Madrid",
+				"coordinates" : {
+					"lat" : 40.396494016741606, 
+					"lon" : -3.709945827775481
+				},
+				"schedule": {
+					"opens": "Lunes - Sábado",
+					"hours_open": "9:00 - 21:30",
+					"closes": "Domingo"
+				},
+				"products" : [
+		
+					{
+						"fresh_products" : [
+							{
+								"queso" : [
+									{
+										"crema_de_queso" : [
+											{
+												"id" : 1,
+												"brand" : "Carrefour",
+												"description" : "Queso de untar clásico Classic Carrefour 300g.",
+												"price_euros" : 1.57,
+												"units" : "gramos",
+												"ingredients" : "Queso fresco (leche pasteurizada, nata pasteurizada, fermentos lácticos, coagulante microbiano), sal, espesante: goma guar.",
+												"sale" : {
+													"active" : false,
+													"type": null
+												},
+												"quantity": 5,
+												"stock" : true
+											},
+											{
+												"id" : 2,
+												"brand" : "Philadelphia",
+												"description" : "Crema de queso de untar natural Philadelphia pac de 2 unidades de 250g.",
+												"price_euros" : 5.15,
+												"units" : "gramos",
+												"ingredients" : "LECHE, NATA, sal, estabilizantes (E410, E401, E407), conservador (E202).",
+												"sale" : {
+													"active" : true,
+													"type": "5€ dto."
+												},
+												"quantity": 5,
+												"stock" : true
+											},
+											{
+												"id" : 3,
+												"brand" : "Arla",
+												"description" : "Crema de queso natural Arla 200g.",
+												"price_euros" : 1.99,
+												"units" : "grams",
+												"ingredients" : "Nata, leche desnatada pasteurizada de vaca, sal, cultivos de ácido láctico",
+												"sale" : {
+													"active" : false,
+													"type": null
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+										],
+										"curado" : [
+											{
+												"id" : 1,
+												"brand" : "Granja de la Luz",
+												"description" : "Queso de mezcla curado Granja de la Luz cuña de 500g aprox.",
+												"price_euros" : 7.52,
+												"units" : "gramos",
+												"ingredients" : "Leche pasteurizada vaca (min 80 %), cabra (min 5%) y oveja (min 5%), sal, cuajo, estabilizante: cloruro cálcico, sal, conservador: Lisozima (derivado de huevo) y fermentos lácticos. Corteza no comestible. En corteza: conservadores (E-202. E-235) y colorante (E-172). Fabricado por RGSA:15.000351/P. Envasado por: ES 15.2862/M. Origen de La Leche: España.",
+												"sale" : {
+													"active" : false,
+													"type": null
+												},
+												"quantity": 5,
+												"stock" : true
+											},
+											{
+												"id" : 2,
+												"brand" : "García Baquero",
+												"description" : "Queso curado ya cortado García Baquero 250g",
+												"price_euros" : 5.65,
+												"units" : "gramos",
+												"ingredients" : "Elaborado con leche pasteurizada de oveja (32 min.), cabra (30 min.) y vaca (23 min.), fermentos lácticos, sal, cuajo, cloruro de calcio.",
+												"sale" : {
+													"active" : false,
+													"type": null
+												},
+												"quantity": 5,
+												"stock" : true
+											},
+											{
+												"id" : 3,
+												"brand" : "Carrefour",
+												"description" : "Queso en lonchas curado Carrefour 200g.",
+												"price_euros" : 3.69,
+												"units" : "gramos",
+												"ingredients" : "Leche pasteurizada de vaca (85%), leche pasteurizada de oveja (15%), sal, cuajo, fermentos lácticos y conservador: E-252.",
+												"sale" : {
+													"active" : true,
+													"type": "2 al 50%"
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+										],
+										"rallados" : [
+											{
+												"id" : 1,
+												"brand" : "President",
+												"description" : "Queso rallado emmental Especial pastas Président 150g.",
+												"price_euros" : 2.89,
+												"units" : "gramos",
+												"ingredients" : "Leche pasteurizada de vaca, sal, fermentos, fécula de patata",
+												"sale" : {
+													"active" : true,
+													"type": "2 al 50%"
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"limpieza_y_hogar" : [
+							{
+								"productos_para_cocina": [
+									{
+										"quitagrasas" : [
+											{
+												"id" : 1,
+												"brand" : "Carrefour",
+												"description" : "Quitagrasas cocina Expert Carrefour 750 ml.",
+												"price_euros" : 1.46,
+												"units" : "mililitros",
+												"sale" : {
+													"active" : false,
+													"type" : null
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+										],
+										"vitroceramica_e_induccion" : [
+											{
+												"id" : 1,
+												"brand" : "Frosch",
+												"description" : "Limpiador vitrocerámicas en crema naranja ecológico Frosch 500 ml.",
+												"price_euros" : 5.19,
+												"units" : "mililitros",
+												"sale" : {
+													"active" : false,
+													"type" : null
+												},
+												"quantity": 5,
+												"stock" : true
+											},
+											{
+												"id" : 2,
+												"brand" : "Indu Clen",
+												"description" : "Limpiador de inducción Indu Clen 450 ml.",
+												"price_euros" : 9.15,
+												"units" : "mililitros",
+												"sale" : {
+													"active" : false,
+													"type" : null
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+											
+										]
+		
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"name" : "Alcampo",
+				"address" : "C. de Antonio López, 117, 28026",
+				"city" : "Madrid",
+				"coordinates" : {
+					"lat" : 40.38940310612522, 
+					"lon" : -3.7005156767010257
+				},
+				"schedule": {
+					"opens": "Lunes - Domingo",
+					"hours_open": "9:00 - 21:30",
+					"closes": null
+				},
+				"products" : [
+					{
+						"fresh_products" : [
+							{
+								"queso" : [
+									{
+										"crema_de_queso" : [
+											{
+												"id" : 1,
+												"brand" : "Philadelphia",
+												"description" : "Queso de untar formato ahorro PHILADELPHIA 2x250g.",
+												"price_euros" : 5.14,
+												"units" : "gramos",
+												"ingredients" : "LECHE, NATA, sal, estabilizantes (E410, E401, E407), conservador (E202).",
+												"sale" : {
+													"active" : true,
+													"type": "acumula saldo 50% de la segunda unidad"
+												},
+												"quantity": 5,
+												"stock" : true
+											},
+											{
+												"id" : 2,
+												"brand" : "Alcampo",
+												"description" : "Queso de untar natural PRODUCTO ALCAMPO 300g.",
+												"price_euros" : 1.39,
+												"units" : "gramos",
+												"ingredients" : "LECHE ENTERA, NATA (LECHE), SÓLIDOS LÁCTEOS (LECHE), SAL, ESTABILIZANTES: E410,E412, E407, CONSERVADOR: E200 Y FERMENTOS LÁCTICOS. ORIGEN DE LA LECHE: ESPAÑA.",
+												"sale" : {
+													"active" : false,
+													"type": null
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+										],
+										"rayados" : [
+											{
+												"id" : 1,
+												"brand" : "TGT HOCHLAND",
+												"description" : "Queso rallado especial pasta TGT HOCHLAND 100g.",
+												"price_euros" : 1.34,
+												"units" : "gramos",
+												"ingredients" : "Queso ,proteínas de la LECHE,almidón modificado ,mantequilla,agua,sales de fundido: polifosfatos y citratos de sodio,corrector de acidez: ácido cítrico ,sal,conservador: sorbato de potasio",
+												"sale" : {
+													"active" : false,
+													"type": null
+												},
+												"quantity": 5,
+												"stock" : true
+											},
+											{
+												"id" : 3,
+												"brand" : "Alcampo",
+												"description" : "Queso rallado Emmental PRODUCTO ALCAMPO 200 g.",
+												"price_euros" : 1.95,
+												"units" : "gramos",
+												"ingredients" : "Leche pasteurizada de vaca. sal. fermentos. coagulante",
+												"sale" : {
+													"active" : false,
+													"type": null
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"limpieza_y_hogar" : [
+							{
+								"productos_para_cocina": [
+									{
+										"quitagrasas" : [
+											{
+												"id" : 1,
+												"brand" : "Alcampo",
+												"description" : "Limpiador desengrasante PRODUCTO ALCAMPO 50ml.",
+												"price_euros" : 1.44,
+												"units" : "mililitros",
+												"sale" : {
+													"active" : false,
+													"type" : null
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+										],
+		
+										"vitroceramica_e_induccion" : [
+											{
+												"id" : 1,
+												"brand" : "KH-7",
+												"description" : "Limpiador especial para vitrocerámica en crema KH-7 450 ml.",
+												"price_euros" : 3.35,
+												"units" : "mililitros",
+												"sale" : {
+													"active" : false,
+													"type" : null
+												},
+												"quantity": 0,
+												"stock" : false
+											},
+											{
+												"id" : 2,
+												"brand" : "VITRO CLEN",
+												"description" : "Limpiiador de vitrocerámica 3 en 1 VITRO CLEN 450 ml.",
+												"price_euros" : 7.05,
+												"unitss" : "mililitros",
+												"sale" : {
+													"active" : false,
+													"type" : null
+												},
+												"quantity": 5,
+												"stock" : true
+											}
+										]
+									}
+								]
+							}
+						]
+					} 
+                ]
+            }
+        ]
+    }
+]
