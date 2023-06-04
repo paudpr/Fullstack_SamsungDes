@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Práctica PHP</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+<body>
+	<div class="card">
+		<h1>Registro de usuario</h1>
+		<form action="submit.php" method="POST" id="formulario">
+				<label for="nombre">Nombre</label>
+				<input class="brillo" name="NOMBRE" type="text" id="nombre" required>
+				<br>
+				<label for="apellido">Apellido</label>
+				<input class="brillo" name="APELLIDO" type="text" id="apellido" required>
+				<br>
+				<label for="email">Email</label>
+				<input class="brillo" name="EMAIL" type="email" id="email" required>
+				<br>
+				<button type="submit" class="button" name="submit">Enviar</button>
+			<br>
+		</form>
+	</div>
+	<script src="index.js"></script>
+</body>
+</html>
+
